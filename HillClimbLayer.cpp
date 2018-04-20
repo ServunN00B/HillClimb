@@ -6,6 +6,7 @@
 #include "cocos2d.h"
 #include "HillClimbLayer.h"
 #include "HillClimbUtility.h"
+#include "HillClimbRoad.h"
 // Add missing includes here.
 
 namespace hillclimb {
@@ -64,7 +65,7 @@ namespace hillclimb {
         //MIN_ROAD_SIZE = 2
         //get part count of road
         //get part coordinate pairs of road
-    
+        hillclimb::HillClimbRoad::addPart(hillclimb::)
         //if partCount < MIN_ROAD_SIZE
             //return
 

@@ -5,7 +5,7 @@ Includes
 namespace
 
     HillClimbCar constructor
-
+/*
     function updateVelocityX
 
     function updatePosY
@@ -102,6 +102,7 @@ namespace
     }
 
     function updateThrottle
+
 
     function getTransitionX
 
